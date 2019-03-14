@@ -1,0 +1,2 @@
+# myappsample
+Git training sample
